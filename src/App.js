@@ -10,10 +10,7 @@ function App() {
 
   );
 }
-//uegfuigefiuweeuwifguewuwe
-//fewgfwiwegifgewuidfew
-//ewkegfwuigfuiwgefiuwgefiuwegiuwgefiuwe
-//wefjhewkfewuewguewiguweiu
+
 
 
 export default App;
